@@ -9,6 +9,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StateManagementWithDataGrid
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ExperimentalData", "ExperimentalData\ExperimentalData.sqlproj", "{22E9D654-A11D-48CC-97A2-FF04788F5FB3}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UsingBindingNavigatorAndSource", "UsingBindingNavigatorAndSource\UsingBindingNavigatorAndSource.vbproj", "{80D10186-C433-4157-AEFF-671157EDA610}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{22E9D654-A11D-48CC-97A2-FF04788F5FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22E9D654-A11D-48CC-97A2-FF04788F5FB3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{22E9D654-A11D-48CC-97A2-FF04788F5FB3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{80D10186-C433-4157-AEFF-671157EDA610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D10186-C433-4157-AEFF-671157EDA610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D10186-C433-4157-AEFF-671157EDA610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D10186-C433-4157-AEFF-671157EDA610}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
