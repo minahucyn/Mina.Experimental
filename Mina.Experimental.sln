@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.1062
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ChangeDisabledTextBoxValueDataBound", "ChangeDisabledTextBoxValueDataBound\ChangeDisabledTextBoxValueDataBound.vbproj", "{D7E9ECBA-1821-4EF1-B328-570D696CB7D3}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StateManagementWithDataGrid", "StateManagementWithDataGrid\StateManagementWithDataGrid.vbproj", "{92F2FD57-E291-438C-8213-E54C38BC5D67}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ExperimentalData", "ExperimentalData\ExperimentalData.sqlproj", "{22E9D654-A11D-48CC-97A2-FF04788F5FB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,16 @@ Global
 		{D7E9ECBA-1821-4EF1-B328-570D696CB7D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7E9ECBA-1821-4EF1-B328-570D696CB7D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7E9ECBA-1821-4EF1-B328-570D696CB7D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F2FD57-E291-438C-8213-E54C38BC5D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F2FD57-E291-438C-8213-E54C38BC5D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F2FD57-E291-438C-8213-E54C38BC5D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F2FD57-E291-438C-8213-E54C38BC5D67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22E9D654-A11D-48CC-97A2-FF04788F5FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E9D654-A11D-48CC-97A2-FF04788F5FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E9D654-A11D-48CC-97A2-FF04788F5FB3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{22E9D654-A11D-48CC-97A2-FF04788F5FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E9D654-A11D-48CC-97A2-FF04788F5FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22E9D654-A11D-48CC-97A2-FF04788F5FB3}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
